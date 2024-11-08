@@ -8,4 +8,4 @@ Pancake: $80""")
 
 total_sum = 202 + 118 + 2250 + 1680 + 1075 + 80
 
-print(total_sum)
+print("Income: " + str(total_sum))
